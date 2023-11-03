@@ -1,0 +1,233 @@
+
+
+	.login_div1 , .login_div2
+	{
+		color: #91c7eb;
+		width: 600px;
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+
+	display: inline-block;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#user1
+{
+	font-size: 20px;
+}
+
+#user2
+{
+	font-size: 20px;
+}
+
+#color
+{
+	background-color: lightgreen;
+	color: black;
+	font-size: 20px;
+	height: 40px;
+	border-radius: 10px;
+}
+
+#head
+{
+   font-size: 40px;
+   color: lightpink;		
+}
+
+
+.body_background
+{
+	background-image: url(MATH.2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#image
+{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+}
+
+#sub-heading
+{
+	color: white;
+	font-size: 20px;
+}
+#div1
+{
+	background-color: lightpink;
+}
+
+#p1
+{
+	color: darkblue;
+}
+
+#p2
+{
+	color: darkblue;
+}
+
+#user1
+{
+	color: darkblue;
+}
+
+#user2
+{
+	color: darkblue;
+}
+
+#player1_input
+{
+	background-color: lavender;
+}
+
+#player2_input
+{
+	background-color: lavender;
+}
+
+#head_pic
+{
+	border: 50px;
+}
+
+body
+{
+	background:lightblue;
+}
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #8144aa;
+padding: 10px;
+float: none;
+text-align: left;
+width: 800px;
+}
+
+#user1
+{
+	font-size: 20px;
+}
+
+#user2
+{
+	font-size: 20px;
+}
+
+#color
+{
+	background-color: #4a0e49;
+	color: lightpink;
+	font-size: 20px;
+}
+
+#heading
+{
+	font-size: 40px;
+	color: #4a0e49;
+	font-weight: bolder;
+}
+
+#player_question
+{
+	font-size: 28px;
+	font-weight: bold;
+	color: #8144aa;
+}
+
+#player_answer
+{
+	font-size: 28px;
+	font-weight: bold;
+	color: #8144aa;
+}
+
+#one
+{
+	font-size:20;
+	font-weight: bolder;
+}
+
+#two
+{
+	font-size:20;
+	font-weight: bolder;
+}
+
+#input_1
+{
+	width: 400px;
+	background-color: rgb(211, 190, 236);
+}
+
+#input_2
+{
+	width: 400px;
+	background-color: rgb(221, 190, 236);
+}
+#Login_button
+{
+	background-color: #91c7eb;
+	font-weight:bolder;
+	height: 50px;
+	width: 80px;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
